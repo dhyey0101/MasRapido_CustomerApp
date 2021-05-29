@@ -1,0 +1,62 @@
+{
+// Login Screen.
+
+    "ACCESS WITH FACEBOOK": "फेसबुक के साथ प",
+    "ACCESS WITH GMAIL": "GMAIL के साथ प्रवेश करें",
+    "I agree and accept the": "मैं सहमत हूं और स्वीकार करता हूं" ,
+    "Terms and Conditions": "नियम और शर्तें",
+    "for the use of the app,": "एप्लिकेशन के उपयोग के लिए,",
+    "Mobile" : "मोबाइल",
+    "LOGIN" : "लॉग इन करें",
+
+// VerifyOTP Screen.
+
+    "Check your Phone": "अपने फोन की जांच करें",
+    "Copy your SMS code here": "यहां अपना एसएमएस कोड कॉपी करें",
+
+// Payment Screen.
+
+    "Register a payment method": "भुगतान विधि पंजीकृत करें",
+    "Name": "नाम",
+    "Card Number": "कार्ड नंबर",
+    "Expiration": "समय सीमा समाप्ति",
+    "CVV": "सीवीवी",
+    "card": "आपके कार्ड को आपके फ़्यूरोस शिपमेंट के लिए भुगतान विधि के रूप में रखा जाएगा",
+    "terms & conditions": "मैं नियम और शर्तों से सहमत हूं।",
+    "See Terms and conditions": "नियम और शर्तें देखें",
+    "SEND": "सेंड",
+
+// Selection Screen.
+
+    "SERVICES" : "सेवा",
+    "MESSENGER SERVICE" : "मेसेंजर सेवा",
+
+//custom side menu.
+
+    "Profile" : "प्रोफ़ाइल", 
+    "Shipping" : "शिपिंग",
+    "Payments" : "भुगतान",
+    "Notifications" : "सूचनाएं",
+    "Configuration" : "कॉन्फ़िगरेशन",
+    "Support" : "समर्थन",
+    "Tearm & Conditions" : "टियरम एंड कंडीशंस",
+    "Leave" : "छोड़ना" ,   
+
+// Profile Screen.
+
+    "Email" : "ईमेल",
+    "Change phone number" : "फ़ोन नंबर बदलें",
+    "Payment method" : "भुगतान की विधि",
+    "Billing Data" : "बिलिंग के आकड़ें",
+    "UPDATE" : "अपडेट करें",
+    "Destination" : "गंतव्य", 
+// Indication Screen.
+
+    "Indication" : "संकेत",
+    "HELLO WHAT DO YOU NEED?" : "हेलो तुम क्या जरूरत है?",
+    "ROUTE" : "रूट",
+    "NOTES" : "टिप्पणियाँ",
+    "Place Order" : "आदेश देना",
+    "Cost of delivery" : "डिलीवरी की लागत",
+    "Includes" : "इसमें I.T.B.M.S शामिल है",
+}   

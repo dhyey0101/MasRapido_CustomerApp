@@ -1,0 +1,52 @@
+{
+  "expo": {
+    "name": "Customer App",
+    "slug": "MASRAPIDO",
+    "privacy": "unlisted",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.8",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "facebookScheme": "fb688051215392905",
+    "facebookAppId": "688051215392905",
+    "facebookDisplayName": "Mas Rapido",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.pushnifty.customerapp",
+      "supportsTablet": true,
+      "usesIcloudStorage": true,
+      "config": {
+        "googleSignIn": {
+          "reservedClientId": "com.googleusercontent.apps.351662705090-tq8t4trb76ch2uopa585rpvgvh0o99gd"
+        },
+        "googleMapsApiKey" : "AIzaSyDA8VzkYgIznevJNoGFt_HLxgM2cBRgQd8"
+      }
+    },
+    "android": {
+      "package": "com.pushnifty.customerapp",
+      "config": {
+          "googleSignIn": {
+            "apiKey": "AIzaSyD6VKrDOOeJgMKKwKpiYFhIA8Udd-7mdlU",
+            "certificateHash": "9FB071B92D25636F3F05F0A815F5F0641710F2BB"
+          },
+          "googleMaps": {
+            "apiKey": "AIzaSyD6VKrDOOeJgMKKwKpiYFhIA8Udd-7mdlU"
+          }
+        }
+    }
+  }
+}
